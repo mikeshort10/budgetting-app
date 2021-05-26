@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-budgettingapp-dev-03818-authRole",
+      "UnauthRoleArn": "arn:aws:iam::844463204225:role/amplify-budgettingapp-dev-03818-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::844463204225:role/amplify-budgettingapp-dev-03818-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-budgettingapp-dev-03818-deployment",
+      "UnauthRoleName": "amplify-budgettingapp-dev-03818-unauthRole",
+      "StackName": "amplify-budgettingapp-dev-03818",
+      "StackId": "arn:aws:cloudformation:us-east-1:844463204225:stack/amplify-budgettingapp-dev-03818/edf17c10-8d23-11eb-9034-0a479dbf9bdf",
+      "AmplifyAppId": "d2wvt8024cma6r"
+    }
+  }
+}
